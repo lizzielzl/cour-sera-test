@@ -1,1 +1,1 @@
-# cour-sera-test
+# coursera-test
